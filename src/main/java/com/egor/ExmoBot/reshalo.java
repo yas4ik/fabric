@@ -1,4 +1,4 @@
-package com.egor;
+package com.egor.ExmoBot;
 
 public class reshalo {
 }

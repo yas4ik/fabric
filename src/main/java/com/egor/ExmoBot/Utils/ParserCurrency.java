@@ -1,4 +1,4 @@
-package com.egor.Utils;
+package com.egor.ExmoBot.Utils;
 
 public class ParserCurrency {
 }
